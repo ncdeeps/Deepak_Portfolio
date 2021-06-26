@@ -14,3 +14,4 @@
 
 - 📫 Reach me at **ncdeeps@gmail.com**
 
+- [![Linkedin: deepaknc](https://img.shields.io/badge/-Deepak%20NC-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepaknc/)](https://www.linkedin.com/in/deepaknc/)
