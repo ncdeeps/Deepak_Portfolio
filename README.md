@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Methanex Plant Optimization**
 
-- 💬 Ask me about **Statistical Analysis, High Dimensional data modelling**
+- 💬 Ask me about **Statistical Analysis, High Dimensional data modelling, Sensor Analytics**
 
-- 📫 How to reach me **ncdeeps@gmail.com**
+- 📫 Reach me at **ncdeeps@gmail.com**
 
